@@ -5,9 +5,10 @@ The module 1 challenge presented an on-the-job ticket that focused on accessibil
 
 
 ## Link to Deployed Application
-N/A
+https://koshea1124.github.io/Module-1-Challenge/
 
 ## Screenshot of Deployed Application
+![image](https://user-images.githubusercontent.com/119077249/206609990-1358cd5d-eefa-4da7-94aa-6dee2f76d65b.png)
 
 ## Credits
 N/A
