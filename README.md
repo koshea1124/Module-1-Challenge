@@ -13,7 +13,6 @@ https://koshea1124.github.io/Module-1-Challenge/
 
 
 ## Credits
-N/A
-
+Credit to https://github.com/coding-boot-camp/urban-octo-telegram for starter code
 
 
